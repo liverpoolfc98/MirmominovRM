@@ -1,1 +1,1 @@
-# MirmominovRM
+# Python learning
